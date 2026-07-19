@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="440" viewBox="0 0 1100 440" font-family="&#39;Segoe UI&#39;,Helvetica,Arial,sans-serif">
+<defs>
+<linearGradient id="abg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#040A16"></stop><stop offset="1" stop-color="#081426"></stop></linearGradient>
+
+<marker id="ar" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0L10,5L0,10z" fill="#1E4B6E"></path></marker>
+</defs>
+<rect width="1100" height="440" fill="url(#abg)" rx="14"></rect>
+<text x="40" y="46" class="lbl">AGENTIC AUTOMATION REFERENCE ARCHITECTURE</text>
+<rect x="40" y="80" width="180" height="300" rx="10" class="box"></rect>
+<text x="60" y="112" class="t">Channels</text>
+<text x="60" y="145" class="s">Web / API / Events</text>
+<text x="60" y="168" class="s">Email &amp; Documents</text>
+<text x="60" y="191" class="s">Process Mining signals</text>
+<rect x="290" y="80" width="230" height="140" rx="10" class="box hot"></rect>
+<text x="310" y="112" class="t">Agent Orchestrator</text>
+<text x="310" y="140" class="s">Planning · Tool routing</text>
+<text x="310" y="160" class="s">Memory · Guardrails</text>
+<text x="310" y="180" class="s">Human-in-the-loop</text>
+<rect x="290" y="240" width="230" height="140" rx="10" class="box"></rect>
+<text x="310" y="272" class="t">RPA Execution Layer</text>
+<text x="310" y="300" class="s">UiPath · Power Automate</text>
+<text x="310" y="320" class="s">Blue Prism · Automation Anywhere</text>
+<text x="310" y="340" class="s">Attended / Unattended</text>
+<rect x="590" y="80" width="230" height="140" rx="10" class="box hot"></rect>
+<text x="610" y="112" class="t">LLM &amp; RAG Services</text>
+<text x="610" y="140" class="s">Azure OpenAI · Bedrock</text>
+<text x="610" y="160" class="s">Vector search · Grounding</text>
+<text x="610" y="180" class="s">Prompt &amp; eval pipelines</text>
+<rect x="590" y="240" width="230" height="140" rx="10" class="box"></rect>
+<text x="610" y="272" class="t">Enterprise Systems</text>
+<text x="610" y="300" class="s">SAP · ServiceNow · CRM</text>
+<text x="610" y="320" class="s">Data platforms · APIs</text>
+<rect x="890" y="80" width="170" height="300" rx="10" class="box"></rect>
+<text x="910" y="112" class="t">Governance</text>
+<text x="910" y="145" class="s">Observability</text>
+<text x="910" y="168" class="s">Evaluation &amp; QA</text>
+<text x="910" y="191" class="s">Security &amp; RBAC</text>
+<text x="910" y="214" class="s">Cost controls</text>
+<text x="910" y="237" class="s">CI/CD · DevOps</text>
+<path id="f1" class="pipe" d="M220,150 H290" marker-end="url(#ar)"></path>
+<path id="f2" class="pipe" d="M405,220 V240" marker-end="url(#ar)"></path>
+<path id="f3" class="pipe" d="M520,150 H590" marker-end="url(#ar)"></path>
+<path id="f4" class="pipe" d="M520,310 H590" marker-end="url(#ar)"></path>
+<path id="f5" class="pipe" d="M820,150 H890" marker-end="url(#ar)"></path>
+<path id="f6" class="pipe" d="M705,220 V240" marker-end="url(#ar)"></path>
+<g fill="#00D9FF">
+<circle r="3.5"></circle>
+<circle r="3.5"></circle>
+<circle r="3.5"></circle>
+<circle r="3.5"></circle>
+<circle r="3.5"></circle>
+<circle r="3.5"></circle>
+</g>
+</svg>
