@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Manikandan J — Agentic AI & Intelligent Automation Architect" width="100%"/>
+<img src="banner.svg" alt="Manikandan J — Agentic AI & Intelligent Automation Architect" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=820&lines=Agentic+AI+%7C+Generative+AI+%7C+Intelligent+Automation+Leader;Principal+Architect+%7C+12%2B+Years+Enterprise+IT;Designing+AI+Agents%2C+RAG+Systems+%26+Automation+Platforms;Enterprise+Architecture+%7C+Cloud+AI+Solutions" alt="Typing intro"/>
 
